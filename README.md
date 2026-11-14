@@ -1,6 +1,6 @@
 # Cube 3D en Pygame
 
-Projet de terminale (spécialité NSI, 2023-2024), réalisé en binôme avec [Prénom Nom].
+Projet de terminale (spécialité NSI, 2023-2024), réalisé en binôme avec Paul Benoist.
 
 Un petit moteur 3D écrit sans bibliothèque 3D : un cube tourne sur lui-même, dessiné face par face avec des triangles, et projeté à l'écran avec de simples formules mathématiques.
 
